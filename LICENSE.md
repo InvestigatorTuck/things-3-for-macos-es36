@@ -1,4 +1,4 @@
-
+Get the ultimate Things 3 for macOS plugin with Things 3 for macOS new Plugin - dark mode and auto-sync. Featuring dark mode and auto-sync, it's the best choice for macOS users.
 
 
 
